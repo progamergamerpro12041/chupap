@@ -1,6 +1,8 @@
 if game.Players.LocalPlayer.UserId == 2565434097 or game.Players.LocalPlayer.UserId == 1420800618 
 or game.Players.LocalPlayer.UserId == 2505647130 or game.Players.LocalPlayer.UserId == 855930044 or game.Players.LocalPlayer.UserId == 1698335686 or game.Players.LocalPlayer.UserId == 418342072  or game.Players.LocalPlayer.UserId == 2262090794 
-or game.Players.LocalPlayer.UserId == 221003611 or game.Players.LocalPlayer.UserId == 2817334614  or game.Players.LocalPlayer.UserId == 897984183 or game.Players.LocalPlayer.UserId == 2914728013  or game.Players.LocalPlayer.UserId == 1084001826 or game.Players.LocalPlayer.UserId == 1877943239  or game.Players.LocalPlayer.UserId == 1032022266 then
+or game.Players.LocalPlayer.UserId == 221003611 or game.Players.LocalPlayer.UserId == 2817334614  or game.Players.LocalPlayer.UserId == 897984183 or game.Players.LocalPlayer.UserId == 2914728013  or game.Players.LocalPlayer.UserId == 1084001826 or game.Players.LocalPlayer.UserId == 1877943239 or game.Players.LocalPlayer.UserId == 1032022266
+or game.Players.LocalPlayer.UserId == 660134820 or game.Players.LocalPlayer.UserId == 2033452319 or game.Players.LocalPlayer.UserId == 1789812869 or game.Players.LocalPlayer.UserId == 1417529870 or game.Players.LocalPlayer.UserId == 1948877543 or game.Players.LocalPlayer.UserId == 1519954037 or game.Players.LocalPlayer.UserId == 2421938321 
+or game.Players.LocalPlayer.UserId == 2396450805 or game.Players.LocalPlayer.UserId == 92548152 or game.Players.LocalPlayer.UserId == 2789841899 or game.Players.LocalPlayer.UserId == 631505066 or game.Players.LocalPlayer.UserId == 171929423 or game.Players.LocalPlayer.UserId == 374383626 then
 else
 game.Players.LocalPlayer:Kick("Not Whitelisted.")
 end
